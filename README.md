@@ -24,19 +24,14 @@ I believe in building software that is as robust as a system trace call and as i
 ## 👤 Identity & Progress
 
 * **Name:** Aneesh Thota
-<br/>
-
+  
 * **Location:** Buffalo, NY 🇺🇸
-<br/>
 
 * [cite_start]**Education:** MS in Computer Science @ UB (GPA: 3.81/4.0) 🎓 [cite: 5, 38]
-<br/>
 
 * **Current:** Research Assistant @ UB CSE 🔬
-<br/>
 
 * **Previous:** SDE 1 @ Maximl Labs (Microservices & Infra) ⚙️
-<br/>
 
 * [cite_start]**Achievements:** * 300+ DSA problems solved (LeetCode 3-star) 🏆 [cite: 31, 65]
     * [cite_start]Global Rank 157 & 510 in CodeChef Challenges 🚀 [cite: 31, 65]
