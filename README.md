@@ -15,26 +15,29 @@
 
 <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" align="right" width="350" />
 
-[cite_start]I’m an **MSCS student at the University at Buffalo** [cite: 5, 38] and an **AI Research Assistant** under **Dr. [cite_start]David Doermann**[cite: 5, 18, 51]. With two years of experience as an **SDE 1 at Maximl Labs**, I specialize in shipping production-grade code and optimizing high-volume distributed systems.
+I’m an **MSCS student at the University at Buffalo** and an **AI Research Assistant** under **Dr. David Doermann**. With two years of experience as an **SDE 1 at Maximl Labs**, I specialize in shipping production-grade code and optimizing high-volume distributed systems.
 
 I believe in building software that is as robust as a system trace call and as intuitive as a conversation.
+
+<br clear="right" />
 
 ---
 
 ## 👤 Identity & Progress
 
 * **Name:** Aneesh Thota
-  
+
 * **Location:** Buffalo, NY 🇺🇸
 
-* [cite_start]**Education:** MS in Computer Science @ UB (GPA: 3.81/4.0) 🎓 [cite: 5, 38]
+* **Education:** MS in Computer Science @ UB (GPA: 3.81/4.0) 🎓
 
 * **Current:** Research Assistant @ UB CSE 🔬
 
 * **Previous:** SDE 1 @ Maximl Labs (Microservices & Infra) ⚙️
+<br
 
-* [cite_start]**Achievements:** * 300+ DSA problems solved (LeetCode 3-star) 🏆 [cite: 31, 65]
-    * [cite_start]Global Rank 157 & 510 in CodeChef Challenges 🚀 [cite: 31, 65]
+* **Achievements:** * 🏆 300+ DSA problems solved (LeetCode 3-star)
+    * 🚀 Global Rank 157 & 510 in CodeChef Challenges
 
 ---
 
@@ -60,7 +63,7 @@ I believe in building software that is as robust as a system trace call and as i
 
 ## 🥊 Beyond the Terminal
 
-When I'm not optimizing P95 latencies:
+When I'm not optimizing features or "RAG"ing:
 - 🥊 Training at the **UB Boxing Club** or the gym.
 - 🍛 Hunting for the best **Biryani** in Buffalo.
 - 🏍️ Planning my next **motorcycle** ride.
