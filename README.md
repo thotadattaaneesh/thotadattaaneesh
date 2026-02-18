@@ -15,12 +15,15 @@
 
 <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" align="right" width="350" />
 
-I’m an **MSCS student at the University at Buffalo**  and an AI Research Assistant under **Dr. [cite_start]David Doermann**. I have a solid background as an **SDE 1 at Maximl Labs**, where I spent two years shipping production code and optimizing high-volume systems.
+I’m an **MSCS student at the University at Buffalo**  and an AI Research Assistant under **Dr.David Doermann**. I have a solid background as an **SDE 1 at Maximl Labs**, where I spent two years shipping production code and optimizing high-volume systems.
 
 I believe in building software that is as robust as a system trace call and as intuitive as a conversation.
 ```yaml
 identity:
-  current: MSCS'26 @ SUNY Buffalo | RA under Prof. David Doermann 🎓
+name: Aneesh Thota
+located_in: Buffalo, NY 🇺🇸
+education: MS in Computer Science @ University at Buffalo 🎓
+  current: Research Assistant under Prof. David Doermann 🎓
   previous: SDE 1 @ Maximl Labs (Distributed systems & Microservices) ⚙️
   achievements: 
     - 300+ DSA problems solved (LeetCode/HackerRank) 🏆
@@ -31,7 +34,7 @@ technologies:
     Python, TypeScript, JavaScript, SQL
   ]
   stack: [
-    NestJS, React, Node.js, Next.js, Django
+    NestJS, React, Node.js, Next.js, Django,
   ]
   ai_ml: [
     LLM RAG, LangChain, YOLOv12, Computer Vision
@@ -42,9 +45,12 @@ technologies:
 
 currently_exploring: {
   concepts: [
-    "Agentic Workflows", "Vector DBs", "Distributed Systems"
+    "Agentic Workflows",
+    "Vector DBs",
+    "Distributed Systems"
   ],
   focus: [
-    "Building a personalized chatbot (MyVictor) for UB CSE"
+    "Building a personalized chatbot (MyVictor) for UB CSE",
+    "Integrate the modern AI Agents with web development tools"
   ]
 }
