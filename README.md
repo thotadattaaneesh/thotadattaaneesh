@@ -35,7 +35,8 @@
 * **Education:** MS in Computer Science @ UB (GPA: 3.81/4.0) 🎓
 * **Current:** Research Assistant @ UB CSE 🔬
 * **Previous:** SDE 1 @ Maximl Labs (Microservices & Infra) ⚙️
-* **Achievements:** * 🏆 300+ DSA problems solved (LeetCode 3-star)
+* **Achievements:**
+    * 🏆 300+ DSA problems solved (LeetCode 3-star)
     * 🚀 Global Rank 157 & 510 in CodeChef Challenges
 
 ---
