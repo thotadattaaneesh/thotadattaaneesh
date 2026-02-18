@@ -20,8 +20,8 @@
       <br/><br/>
       I believe in building software that is as robust as a system trace call and as intuitive as a conversation.
     </td>
-    <td width="220px">
-      <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="220" />
+    <td width="200px">
+      <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="200" />
     </td>
   </tr>
 </table>
@@ -30,8 +30,8 @@
 
 ## 👤 Identity & Progress
 
-* **Name:** Aneesh Thota
-* **Location:** Buffalo, NY 🇺🇸
+* **Name:** Aneesh Thota 
+* **Location:** Buffalo, NY 🇺🇸 
 * **Education:** MS in Computer Science @ UB (GPA: 3.81/4.0) 🎓
 * **Current:** Research Assistant @ UB CSE 🔬
 * **Previous:** SDE 1 @ Maximl Labs (Microservices & Infra) ⚙️
@@ -51,21 +51,47 @@
 
 ---
 
-## 📈 Activity & Impact
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🥊 Beyond the Terminal
 
 When I'm not optimizing P95 latencies:
-- 🥊 Training at the **UB Boxing Club** or hitting the gym.
+- 🥊 Training at the **UB Boxing Club** or the gym.
 - 🍛 Hunting for the best **Biryani** in Buffalo.
 - 🏍️ Planning my next **motorcycle** ride.
+
+--- 
+
+## 💼 Work Experience
+
+#### **SDE 1 | Maximl Labs** *(Aug 2024 – May 2026)*
+* Engineered a distributed progress tracking feature processing **100K+ tasks**, reducing P95 latency and improving performance by **170%**.
+* Led a team of interns to revamp the STO platform codebase (35K+ lines) to **NestJS**, implementing OOD patterns and reducing downtime.
+* Owned microservices infra for 2 products, providing 24/7 support for high-volume production environments.
+
+#### **SDE Intern | Maximl Labs** *(Jan 2023 – May 2023)*
+* Built an AI report generator for **10,000+ users**, integrating 3rd-party LLM APIs and automating data extraction from PDFs.
+* Architected Auth/AuthZ using **FusionAuth** and **OAuth2**, resolving critical production-grade issues.
+
+---
+
+## 📂 Featured Projects & Research
+
+#### 🤖 **MyVictor Chatbot (Research @ UB)**
+* Developing a personalized LLM-based **RAG pipeline** using **LangChain** and **Pinecone** to automate responses for the UB CSE department.
+
+#### 🚁 **IoT Edge Perception System (UAV)**
+* Built perception algorithms for UAV autonomy combining **YOLOv5** and **DeepSORT**, achieving **98% object detection accuracy**.
+
+#### 🆘 **Geo-Fenced Emergency SOS App**
+* Engineered a mobile application using **React Native** and **Twilio** to provide live location and emergency services within a 10km radius.
+
+---
+
+## 📈 Activity & Impact
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
