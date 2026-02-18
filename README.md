@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Hola! I'm Aneesh Thota
+# 👋 Hola! I'm Aneesh Thota
 
 ### Loves to build and ship.
 
@@ -11,29 +11,39 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Satellite.png" width="35" /> About Me
+## 🛰️ About Me
 
 <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" align="right" width="350" />
 
-I’m an **MSCS student at the University at Buffalo** and an **AI Research Assistant** under **Dr. David Doermann**. With two years of experience as an **SDE 1 at Maximl Labs**, I specialize in shipping production-grade code and optimizing high-volume distributed systems.
+[cite_start]I’m an **MSCS student at the University at Buffalo** [cite: 5, 38] and an **AI Research Assistant** under **Dr. [cite_start]David Doermann**[cite: 5, 18, 51]. With two years of experience as an **SDE 1 at Maximl Labs**, I specialize in shipping production-grade code and optimizing high-volume distributed systems.
 
 I believe in building software that is as robust as a system trace call and as intuitive as a conversation.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" /> Identity & Progress
+## 👤 Identity & Progress
 
-**name:** Aneesh Thota
-**located_in:** Buffalo, NY <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flags/United%20States.png" width="20" />
-**education:** MS in Computer Science @ UB (GPA: 3.81/4.0) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="20" />
-**current:** Research Assistant @ UB CSE
-**previous:** SDE 1 @ Maximl Labs (Microservices & Infra) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" />
-**achievements:** - 300+ DSA problems solved (LeetCode 3-star) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="20" />
-  - Global Rank 157 & 510 in CodeChef Challenges <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Rocket.png" width="20" />
+* **Name:** Aneesh Thota
+<br/>
+
+* **Location:** Buffalo, NY 🇺🇸
+<br/>
+
+* [cite_start]**Education:** MS in Computer Science @ UB (GPA: 3.81/4.0) 🎓 [cite: 5, 38]
+<br/>
+
+* **Current:** Research Assistant @ UB CSE 🔬
+<br/>
+
+* **Previous:** SDE 1 @ Maximl Labs (Microservices & Infra) ⚙️
+<br/>
+
+* [cite_start]**Achievements:** * 300+ DSA problems solved (LeetCode 3-star) 🏆 [cite: 31, 65]
+    * [cite_start]Global Rank 157 & 510 in CodeChef Challenges 🚀 [cite: 31, 65]
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35" /> The Toolkit
+## 🛠️ The Toolkit
 
 | Category | Tech Stack |
 | :--- | :--- |
@@ -44,7 +54,7 @@ I believe in building software that is as robust as a system trace call and as i
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35" /> Activity & Impact
+## 📈 Activity & Impact
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -53,7 +63,7 @@ I believe in building software that is as robust as a system trace call and as i
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Boxing%20Glove.png" width="35" /> Beyond the Terminal
+## 🥊 Beyond the Terminal
 
 When I'm not optimizing P95 latencies:
 - 🥊 Training at the **UB Boxing Club** or the gym.
