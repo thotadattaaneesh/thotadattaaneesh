@@ -28,12 +28,24 @@ identity:
     - Global Rank 157 & 510 in CodeChef Long Challenges 🚀
 
 technologies:
-  languages: [Python, TypeScript, JavaScript, SQL]
-  stack: [NestJS, React, Node.js, Next.js, Django]
-  ai_ml: [LLM RAG, LangChain, YOLOv12, Computer Vision]
-  devops: [Docker, Kubernetes, AWS, CI/CD]
+  languages: [
+    Python, TypeScript, JavaScript, SQL
+  ]
+  stack: [
+    NestJS, React, Node.js, Next.js, Django
+  ]
+  ai_ml: [
+    LLM RAG, LangChain, YOLOv12, Computer Vision
+  ]
+  devops: [
+    Docker, Kubernetes, AWS, CI/CD
+  ]
 
 currently_exploring: {
-  concepts: ["Agentic Workflows", "Vector DBs", "Distributed Systems"],
-  focus: ["Building a personalized chatbot (MyVictor) for UB CSE"]
+  concepts: [
+    "Agentic Workflows", "Vector DBs", "Distributed Systems"
+  ],
+  focus: [
+    "Building a personalized chatbot (MyVictor) for UB CSE"
+  ]
 }
