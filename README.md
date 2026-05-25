@@ -2,7 +2,7 @@
 
 # 👋 Hola! I'm Aneesh Thota
 
-### 🚀 AI & Distributed Systems Engineer | Loves to build and ship.
+### 🚀 AI | Backend | Distributed Systems,  Engineer | Loves to build and ship.
 
 <p align="center">
   <a href="mailto:dattaaneeshthota@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -43,8 +43,8 @@
 * **Name:** Aneesh Thota
 * **Location:** Buffalo, NY 🇺🇸
 * **Education:** MS in Computer Science @ UB (GPA: 3.81/4.0) 🎓
-* **Current:** AI-SWE @ Firstep | Research Assistant @ UB CSE 🔬
-* **Previous:** SDE 1 @ Maximl Labs (Microservices & Infra) ⚙️
+* **Current:** Ex-AI-SWE @ Firstep | Research Assistant @ UB CSE 🔬
+* **Previous:** Ex-SDE 1 @ Maximl Labs (Microservices & Infra) ⚙️
 * **Achievements:**
     * 🏆 300+ DSA problems solved (LeetCode 3-star)
     * 🚀 Global Rank 157 & 510 in CodeChef Challenges
