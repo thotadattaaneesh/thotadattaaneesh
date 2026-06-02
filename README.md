@@ -9,6 +9,7 @@
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+  <a href="YOUR_CODESTUDIO_URL"><img src="https://img.shields.io/badge/-CodeStudio-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==&logoColor=white" alt="CodeStudio" /></a>
 </p>
 
 *📍 Buffalo, New York 🇺🇸*
@@ -24,7 +25,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="70%">
-      I’m an <b>Honors MS in Computer Science (AI/ML Thesis) student at the State University of New York at Buffalo</b>, currently maintaining a 3.81/4.0 GPA. Alongside my coursework in NLP, Information Retrieval, and Algorithms, I serve as a <b>Graduate Research Assistant</b> under Dr. David Doermann. Currently, I am also architecting next-gen LLM systems as an <b>AI Software Engineer Intern at Firstep</b>.
+      I'm an <b>Honors MS in Computer Science (AI/ML Thesis) student at the State University of New York at Buffalo</b>, currently maintaining a 3.81/4.0 GPA. Alongside my coursework in NLP, Information Retrieval, and Algorithms, I serve as a <b>Graduate Research Assistant</b> under Dr. David Doermann. Currently, I am also architecting next-gen LLM systems as an <b>AI Software Engineer Intern at Firstep</b>.
       <br/><br/>
       With previous experience as a <b>Software Engineer I at Maximl Labs</b>, I specialize in shipping production-grade code, orchestrating multi-agent RAG pipelines, and optimizing high-volume distributed architectures. 
       <br/><br/>
@@ -57,6 +58,7 @@
 * **Dual-Model Pipeline & Latency Optimization:** Architected a dual-model (20B/70B) safety and message refinement pipeline with a FastAPI backend. Integrated Redis caching to reduce conversation latency by 40% across multimodal requests.
 * **Stateful Security & Retrieval:** Engineered a stateful security layer utilizing **Llama-3.3-70B** and **Pinecone** to retrieve and analyze historical conversation context. Increased retrieval accuracy by 35% for detecting complex intent patterns (e.g., 'Time-Pass' vs. 'Family-Oriented').
 * **AI Guard-railing:** Developed a cumulative AI Guard-railing and ranking system in Python that leverages retrieved behavioral markers to reduce toxic bypass attempts by 25%. Ensured direct communication is unlocked only after a verified pattern of secured interaction. Worked extensively on pair matching and recommendation algorithms.
+* **Cloud Infrastructure:** Engineered the full backend as containerized microservices on **Azure** using **Kubernetes** and **Helm**, managing service orchestration, rolling deployments, and schema migrations for production reliability.
 
 ### 🔬 **SUNY Buffalo | Graduate Research Assistant** *(Buffalo, NY | Mar 2025 – Present)*
 * **Multi-Agent RAG Architecture:** Built a Python-based LLM-powered RAG chatbot for UB's CSE Department featuring a 250K+ self-scraped Pinecone knowledge base. Engineered a multi-tool AI Agent routing system for arithmetic, QA, SQL, and metadata API queries, boosting live data relevance by 40%.
@@ -80,11 +82,11 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) `SQL` `HTML` `CSS` |
-| **AI / Machine Learning** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=chainlink) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) `Agentic AI` `RAG` `Claude` `NumPy` `NLTK` `Multi-agent Orchestration` |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) `SQL` `Shell Scripting` `HTML` `CSS` |
+| **AI / Machine Learning** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=chainlink) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) `Agentic AI` `RAG` `Claude` `NumPy` `NLTK` `FAISS` `Vector Search` `Embeddings` `Multi-agent Orchestration` `Prompt Engineering` `Chain-of-Thought Prompting` `Few-Shot Prompting` |
 | **Backend & Architecture** | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) `Microservices` `gRPC` `Kafka` `RabbitMQ` `Event-Driven Systems` `GraphQL` `OAuth2` `JWT` `RBAC` |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) `MySQL` `SQL Server` `Pandas` |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) `Azure` `GCP` `ArgoCD` `Helm` `Prometheus` `CI/CD` `Distributed Tracing` `N8N` |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) `MySQL` `SQL Server` `Pandas` |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white) `Azure` `GCP` `Helm` `Prometheus` `CI/CD` `Distributed Tracing` `N8N` |
 
 ---
 
@@ -96,11 +98,14 @@
 #### 🚁 **UAV Parking Occupancy Detector (Research @ UB)**
 > Implemented a Python/OpenCV-based UAV parking detector utilizing **YOLOv12** and Stable Super Resolution capable of detecting 15+ parking types. Integrated homographic mapping and Mapbox for real-time geo-spatial occupancy visualization.
 
-#### 🆘 **Geo-Fenced Emergency Response System**
-> Designed a mobile SOS application providing real-time location tracking alongside voice and video sharing capabilities to emergency contacts within a defined 5-10 km radius. Built on an event-driven, OOP-based backend architecture utilizing **React Native, NestJS, and PostgreSQL**. Integrated third-party services including **Twilio**, **Google Maps**, and payment gateway APIs.
+#### 💼 **JobReach – Agentic Job Outreach Platform** *(Python, LangChain, RAG, AI Agents, React, NextJS)*
+> Orchestrated an end-to-end agentic RAG pipeline that ingests a job URL, identifies hiring contacts via AI-driven search, and generates personalized outreach emails with a configurable, autonomous sending layer. Reduced manual outreach from **5 hours to 10 minutes**; achieved a **4x reply rate improvement** on day one versus a sub-1% baseline from traditional cold emailing. Developed a full-stack job platform with **ElasticSearch-powered search** and **Redis** caching.
 
-#### 🚁 **IoT Edge Perception System (UAV)**
-> Constructed a comprehensive UAV surveillance pipeline merging **YOLOv5** for object detection (achieving **98% accuracy**) with **DeepSORT** (leveraging Kalman filtering and the Hungarian algorithm) for multi-object tracking at **97% accuracy**. The system was built using **Python, OpenCV, and NumPy**, with tracking and detection data visualized dynamically on **Leaflet** maps for real-time situational awareness.
+#### 🆘 **Geo-Fenced Emergency Response System** *(React Native, NestJS, PostgreSQL, Twilio, Google Maps)*
+> Designed a mobile SOS application providing real-time location tracking alongside voice and video sharing capabilities to emergency contacts within a defined 5-10 km radius. Built on an event-driven, OOP-based backend architecture utilizing **React Native, NestJS, and PostgreSQL**. Deployed on **AWS EKS** using Docker, Kubernetes, and Helm with a Jenkins CI/CD pipeline. Integrated third-party services including **Twilio**, **Google Maps**, and payment gateway APIs.
+
+#### 🚁 **IoT Edge Perception System (UAV)** *(React, Node.js, ElasticSearch, Redis, REST APIs)*
+> Constructed a comprehensive UAV surveillance pipeline merging **YOLOv5** for object detection (achieving **98% accuracy**) with **DeepSORT** (leveraging Kalman filtering and the Hungarian algorithm) for multi-object tracking at **97% accuracy**. Integrated **Spark Streaming on GCP** for real-time data ingestion, visualized on **Leaflet** maps, and deployed at edge using **Docker and Kubernetes**.
 
 ---
 
