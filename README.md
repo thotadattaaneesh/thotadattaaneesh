@@ -54,13 +54,13 @@
 
 ## 💼 Comprehensive Professional Experience
 
-### 🧠 **Firstep | AI Software Engineer Intern** *(Remote, USA | Feb 2026 – Present)*
+### 🧠 **Firstep | AI Software Engineer Intern** *(Remote, USA | Feb 2026 – May 2026)*
 * **Dual-Model Pipeline & Latency Optimization:** Architected a dual-model (20B/70B) safety and message refinement pipeline with a FastAPI backend. Integrated Redis caching to reduce conversation latency by 40% across multimodal requests.
 * **Stateful Security & Retrieval:** Engineered a stateful security layer utilizing **Llama-3.3-70B** and **Pinecone** to retrieve and analyze historical conversation context. Increased retrieval accuracy by 35% for detecting complex intent patterns (e.g., 'Time-Pass' vs. 'Family-Oriented').
 * **AI Guard-railing:** Developed a cumulative AI Guard-railing and ranking system in Python that leverages retrieved behavioral markers to reduce toxic bypass attempts by 25%. Ensured direct communication is unlocked only after a verified pattern of secured interaction. Worked extensively on pair matching and recommendation algorithms.
 * **Cloud Infrastructure:** Engineered the full backend as containerized microservices on **Azure** using **Kubernetes** and **Helm**, managing service orchestration, rolling deployments, and schema migrations for production reliability.
 
-### 🔬 **SUNY Buffalo | Graduate Research Assistant** *(Buffalo, NY | Mar 2025 – Present)*
+### 🔬 **SUNY Buffalo | Graduate Research Assistant** *(Buffalo, NY | Mar 2025 – June 2026)*
 * **Multi-Agent RAG Architecture:** Built a Python-based LLM-powered RAG chatbot for UB's CSE Department featuring a 250K+ self-scraped Pinecone knowledge base. Engineered a multi-tool AI Agent routing system for arithmetic, QA, SQL, and metadata API queries, boosting live data relevance by 40%.
 * **Computer Vision & Spatial Mapping:** Implemented a Python/OpenCV-based UAV parking detector utilizing **YOLOv12** and Stable Super Resolution capable of detecting 15+ parking types. Integrated homographic mapping and Mapbox for real-time geo-spatial occupancy visualization.
 
